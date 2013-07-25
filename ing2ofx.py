@@ -19,7 +19,7 @@
 #       along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 """
-The intend of this script is to convert ing (www.ing.nl) csv files to ofx files 
+The intent of this script is to convert ing (www.ing.nl) csv files to ofx files 
 that can be read by a program like GnuCash (www.gucash.org).
 
 This script is adapted from pb2ofx.pl Copyright 2008, 2009, 2010 Peter Vermaas,
